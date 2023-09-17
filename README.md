@@ -10,4 +10,4 @@ Summer Project submitted to Dyal Singh College, September 2023
 Report Number: DSC-PHYS-02/2023
 
 
-The date used for training and testing purposeses are given in the file "Weather Data test1.csv" 
+The data used for training and testing purposes are given in the file "Weather Data test1.csv" 
