@@ -1,6 +1,7 @@
 Rainfall Prediction: Machine Learning Approach
 
-Authors : Ankit Goswami, M sparsh Mehra, Safal Sharma
+Authors: Ankit Goswami, M sparsh Mehra, Safal Sharma
+
 Institution: Department of Physics, Dyal Singh College (University of Delhi), Delhi-110003, India
 
 Mentor: Naveen Gaur
