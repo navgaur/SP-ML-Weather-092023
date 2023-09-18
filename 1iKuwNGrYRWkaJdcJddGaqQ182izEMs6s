@@ -1,0 +1,745 @@
+datetime,temp,humidity,B pressure ,conditions,icon,precip amt,precipitation sts
+2023-06-05T00:00:00,28,69.92,1005,Partially cloudy,partly-cloudy-night,0,0
+2023-06-05T01:00:00,28,65.77,1004,Partially cloudy,partly-cloudy-night,0,0
+2023-06-05T02:00:00,26.2,78.03,1002.5,Partially cloudy,partly-cloudy-night,0,0
+2023-06-05T03:00:00,27,69.73,1004,Partially cloudy,partly-cloudy-night,0,0
+2023-06-05T04:00:00,26,73.97,1004,Clear,clear-night,0,0
+2023-06-05T05:00:00,25.9,77.98,1003.2,Partially cloudy,partly-cloudy-night,0,0
+2023-06-05T06:00:00,26,78.64,1005,Partially cloudy,partly-cloudy-day,0,0
+2023-06-05T07:00:00,27,78.78,1006,Partially cloudy,partly-cloudy-day,0,0
+2023-06-05T08:00:00,29.7,66.32,1004.9,Partially cloudy,partly-cloudy-day,0,0
+2023-06-05T09:00:00,31,58.81,1007,Partially cloudy,partly-cloudy-day,0,0
+2023-06-05T10:00:00,33,49.4,1007,Partially cloudy,partly-cloudy-day,0,0
+2023-06-05T11:00:00,34.8,46.06,1004.8,Partially cloudy,partly-cloudy-day,0,0
+2023-06-05T12:00:00,36,32.57,1006,Clear,clear-day,0,0
+2023-06-05T13:00:00,36,30.57,1006,Partially cloudy,partly-cloudy-day,0,0
+2023-06-05T14:00:00,37.2,37.79,1002.4,Partially cloudy,partly-cloudy-day,0,0
+2023-06-05T15:00:00,37,28.94,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-05T16:00:00,37,27.14,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-05T17:00:00,37,35.41,1001,Clear,clear-day,0,0
+2023-06-05T18:00:00,36,28.67,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-05T19:00:00,35,30.3,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-05T20:00:00,32.1,54.9,1002.4,Clear,clear-night,0,0
+2023-06-05T21:00:00,33,38.49,1004,Partially cloudy,partly-cloudy-night,0,0
+2023-06-05T22:00:00,32,40.72,1005,Partially cloudy,partly-cloudy-night,0,0
+2023-06-05T23:00:00,30,64.51,1003.3,Partially cloudy,partly-cloudy-night,0,0
+2023-06-06T00:00:00,30,48.62,1005,Overcast,cloudy,0,0
+2023-06-06T01:00:00,28,48.09,1004,Overcast,cloudy,0,0
+2023-06-06T02:00:00,26.3,75.77,1003.4,"Rain, Partially cloudy",rain,0.34,1
+2023-06-06T03:00:00,24,78.35,1004,Partially cloudy,partly-cloudy-night,0,0
+2023-06-06T04:00:00,25,78.5,1005,Partially cloudy,partly-cloudy-night,0,0
+2023-06-06T05:00:00,24.6,84.72,1003.9,Partially cloudy,partly-cloudy-night,0,0
+2023-06-06T06:00:00,25,73.8,1005,Clear,clear-day,0,0
+2023-06-06T07:00:00,27,57.87,1006,Clear,clear-day,0,0
+2023-06-06T08:00:00,29.2,57.41,1005.1,Clear,clear-day,0,0
+2023-06-06T09:00:00,31,43.1,1006,Clear,clear-day,0,0
+2023-06-06T10:00:00,33,38.49,1006,Clear,clear-day,0,0
+2023-06-06T11:00:00,35,43.46,1004.3,Clear,clear-day,0,0
+2023-06-06T12:00:00,36,32.57,1006,Partially cloudy,partly-cloudy-day,0,0
+2023-06-06T13:00:00,37,28.94,1005,Partially cloudy,partly-cloudy-day,0,0
+2023-06-06T14:00:00,37.9,34.4,1002.2,Partially cloudy,partly-cloudy-day,0,0
+2023-06-06T15:00:00,38,22.58,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-06T16:00:00,37,27.14,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-06T17:00:00,36.7,42.63,1000.1,Partially cloudy,partly-cloudy-day,0,0
+2023-06-06T18:00:00,36,28.67,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-06T19:00:00,32,35.84,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-06T20:00:00,32.8,50.23,1001.9,Partially cloudy,partly-cloudy-night,0,0
+2023-06-06T21:00:00,31,37.94,1004,Partially cloudy,partly-cloudy-night,0,0
+2023-06-06T22:00:00,31,35.56,1005,Partially cloudy,partly-cloudy-night,0,0
+2023-06-06T23:00:00,31.3,50.45,1003.2,Partially cloudy,partly-cloudy-night,0,0
+2023-06-07T00:00:00,30,42.83,1004,Partially cloudy,partly-cloudy-night,0,0
+2023-06-07T01:00:00,29,45.37,1004,Partially cloudy,partly-cloudy-night,0,0
+2023-06-07T02:00:00,28.8,59.77,1002.2,Partially cloudy,partly-cloudy-night,0,0
+2023-06-07T03:00:00,28,51.24,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-06-07T04:00:00,27,57.87,1004,Partially cloudy,partly-cloudy-night,0,0
+2023-06-07T05:00:00,25.9,72.11,1003.2,Partially cloudy,partly-cloudy-night,0,0
+2023-06-07T06:00:00,27,54.33,1005,Partially cloudy,partly-cloudy-day,0,0
+2023-06-07T07:00:00,27.4,49.69,1006,Partially cloudy,partly-cloudy-day,0,0
+2023-06-07T08:00:00,29,54.58,1004.6,Clear,clear-day,0,0
+2023-06-07T09:00:00,30,42.83,1006,Clear,clear-day,0,0
+2023-06-07T10:00:00,33,33.87,1006,Clear,clear-day,0,0
+2023-06-07T11:00:00,35.1,38.09,1004.1,Clear,clear-day,0,0
+2023-06-07T12:00:00,36,23.58,1006,Clear,clear-day,0,0
+2023-06-07T13:00:00,37,19.55,1005,Clear,clear-day,0,0
+2023-06-07T14:00:00,37.8,27.2,1003,Clear,clear-day,0,0
+2023-06-07T15:00:00,38,18.51,1004,Clear,clear-day,0,0
+2023-06-07T16:00:00,38,18.51,1003,Clear,clear-day,0,0
+2023-06-07T17:00:00,37.8,31.07,1000.6,Clear,clear-day,0,0
+2023-06-07T18:00:00,37,20.9,1003,Clear,clear-day,0,0
+2023-06-07T19:00:00,36,23.58,1003,Clear,clear-day,0,0
+2023-06-07T20:00:00,33.3,43.31,1001.2,Clear,clear-night,0,0
+2023-06-07T21:00:00,33,29.75,1004,Clear,clear-night,0,0
+2023-06-07T22:00:00,33,31.76,1005,Clear,clear-night,0,0
+2023-06-07T23:00:00,30.6,52.68,1002.4,Clear,clear-night,0,0
+2023-06-08T00:00:00,32,35.84,1004,Clear,clear-night,0,0
+2023-06-08T01:00:00,30,40.17,1004,Partially cloudy,partly-cloudy-night,0,0
+2023-06-08T02:00:00,27.7,62.98,1002.4,Clear,clear-night,0,0
+2023-06-08T03:00:00,28,48.09,1004,Clear,clear-night,0,0
+2023-06-08T04:00:00,28,48.09,1004,Clear,clear-night,0,0
+2023-06-08T05:00:00,26,65.72,1003.5,Clear,clear-night,0,0
+2023-06-08T06:00:00,29,45.37,1005,Clear,clear-day,0,0
+2023-06-08T07:00:00,31,37.94,1006,Clear,clear-day,0,0
+2023-06-08T08:00:00,32,45.46,1004.5,Clear,clear-day,0,0
+2023-06-08T09:00:00,34,32.03,1006,Clear,clear-day,0,0
+2023-06-08T10:00:00,35,28.4,1006,Clear,clear-day,0,0
+2023-06-08T11:00:00,37.1,31.57,1003.9,Clear,clear-day,0,0
+2023-06-08T12:00:00,38,22.58,1005,Clear,clear-day,0,0
+2023-06-08T13:00:00,38,22.58,1004,Clear,clear-day,0,0
+2023-06-08T14:00:00,39,31.99,1001.6,Partially cloudy,partly-cloudy-day,0,0
+2023-06-08T15:00:00,39,21.39,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-08T16:00:00,39,20.03,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-08T17:00:00,38.9,30.64,998.7,Partially cloudy,partly-cloudy-day,0,0
+2023-06-08T18:00:00,38,19.78,1001,Clear,clear-day,0,0
+2023-06-08T19:00:00,37,20.9,1001,Clear,clear-day,0,0
+2023-06-08T20:00:00,34.1,39.77,1000,Clear,clear-night,0,0
+2023-06-08T21:00:00,35,21.82,1002,Clear,clear-night,0,0
+2023-06-08T22:00:00,35,21.82,1002,Clear,clear-night,0,0
+2023-06-08T23:00:00,31.1,47.09,1000.5,Partially cloudy,partly-cloudy-night,0,0
+2023-06-09T00:00:00,33,29.75,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-09T01:00:00,30.6,36.17,1001.4,Partially cloudy,partly-cloudy-night,0,0
+2023-06-09T02:00:00,28.8,56.36,1000.2,Partially cloudy,partly-cloudy-night,0,0
+2023-06-09T03:00:00,30,42.83,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-09T04:00:00,29,51.5,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-09T05:00:00,28.9,61.42,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-09T06:00:00,29,54.83,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-09T07:00:00,30,55.08,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-09T08:00:00,31.9,55.26,1001.4,Partially cloudy,partly-cloudy-day,0,0
+2023-06-09T09:00:00,34,43.91,1003,Clear,clear-day,0,0
+2023-06-09T10:00:00,36,36.94,1003,Clear,clear-day,0,0
+2023-06-09T11:00:00,36.9,43.19,1000.4,Clear,clear-day,0,0
+2023-06-09T12:00:00,39,27.67,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-09T13:00:00,40,26.22,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-09T14:00:00,40.1,30.14,997.7,Partially cloudy,partly-cloudy-day,0,0
+2023-06-09T15:00:00,40,26.22,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-09T16:00:00,39,24.35,998,Partially cloudy,partly-cloudy-day,0,0
+2023-06-09T17:00:00,39.4,32.39,995.7,Partially cloudy,partly-cloudy-day,0,0
+2023-06-09T18:00:00,35,34.42,998,Partially cloudy,partly-cloudy-day,0,0
+2023-06-09T19:00:00,34,36.39,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-09T20:00:00,32.4,45.7,997.6,Partially cloudy,partly-cloudy-night,0,0
+2023-06-09T21:00:00,32,40.72,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-09T22:00:00,31,43.1,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-09T23:00:00,31.1,46.43,997.7,Partially cloudy,partly-cloudy-night,0,0
+2023-06-10T00:00:00,30,42.83,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-10T01:00:00,30,45.64,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-10T02:00:00,30.1,49.09,997.5,Partially cloudy,partly-cloudy-night,0,0
+2023-06-10T03:00:00,30,45.64,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-10T04:00:00,30,45.64,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-10T05:00:00,28.4,60.12,998.2,Partially cloudy,partly-cloudy-night,0,0
+2023-06-10T06:00:00,31,40.45,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-10T07:00:00,31,43.1,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-10T08:00:00,32.9,47.15,999.6,Partially cloudy,partly-cloudy-day,0,0
+2023-06-10T09:00:00,34,43.91,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-10T10:00:00,37,37.21,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-10T11:00:00,38.4,41.08,999.4,Partially cloudy,partly-cloudy-day,0,0
+2023-06-10T12:00:00,39,33.38,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-10T13:00:00,40,29.73,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-10T14:00:00,41,32.52,996.5,Partially cloudy,partly-cloudy-day,0,0
+2023-06-10T15:00:00,41,24.86,998,Partially cloudy,partly-cloudy-day,0,0
+2023-06-10T16:00:00,41,23.33,997,Partially cloudy,partly-cloudy-day,0,0
+2023-06-10T17:00:00,39,35.17,994.9,Partially cloudy,partly-cloudy-day,0,0
+2023-06-10T18:00:00,36,32.57,998,Partially cloudy,partly-cloudy-day,0,0
+2023-06-10T19:00:00,35,32.3,998,Partially cloudy,partly-cloudy-day,0,0
+2023-06-10T20:00:00,34.5,41.76,996.7,Partially cloudy,partly-cloudy-night,0,0
+2023-06-10T21:00:00,33,36.12,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-10T22:00:00,32,35.84,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-10T23:00:00,32.4,47.58,998.1,Partially cloudy,partly-cloudy-night,0,0
+2023-06-11T00:00:00,31,43.1,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-11T01:00:00,29,58.35,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-11T02:00:00,30.1,56.3,997.9,"Rain, Partially cloudy",rain,0.149,1
+2023-06-11T03:00:00,27,74.14,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-11T04:00:00,28,65.77,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-11T05:00:00,27.9,70.36,998.5,"Rain, Partially cloudy",rain,0.425,1
+2023-06-11T06:00:00,27,74.14,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-11T07:00:00,28,69.92,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-11T08:00:00,29.2,65.41,1000.3,Partially cloudy,partly-cloudy-day,0,0
+2023-06-11T09:00:00,31,52.01,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-11T10:00:00,33,46.44,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-11T11:00:00,35.1,44.97,1000,Clear,clear-day,0,0
+2023-06-11T12:00:00,36,32.57,1001,Clear,clear-day,0,0
+2023-06-11T13:00:00,37,28.94,1001,Clear,clear-day,0,0
+2023-06-11T14:00:00,38,35.36,997.7,Clear,clear-day,0,0
+2023-06-11T15:00:00,38,29.2,999,Clear,clear-day,0,0
+2023-06-11T16:00:00,38,29.2,998,Clear,clear-day,0,0
+2023-06-11T17:00:00,37.9,38.66,995.9,Clear,clear-day,0,0
+2023-06-11T18:00:00,36,32.57,999,Clear,clear-day,0,0
+2023-06-11T19:00:00,36,32.57,999,Clear,clear-day,0,0
+2023-06-11T20:00:00,34.3,45.19,997.1,Clear,clear-night,0,0
+2023-06-11T21:00:00,34,38.76,1000,Clear,clear-night,0,0
+2023-06-11T22:00:00,33,43.64,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-11T23:00:00,31.7,55.6,998.3,Partially cloudy,partly-cloudy-night,0,0
+2023-06-12T00:00:00,32,49.14,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-12T01:00:00,31,55.32,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-12T02:00:00,30.2,61.81,997.4,Partially cloudy,partly-cloudy-night,0,0
+2023-06-12T03:00:00,30,55.08,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-12T04:00:00,29,62.06,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-12T05:00:00,29.6,65.03,998.1,Partially cloudy,partly-cloudy-night,0,0
+2023-06-12T06:00:00,30,55.08,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-12T07:00:00,31,55.32,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-12T08:00:00,33.3,52.23,999.1,Partially cloudy,partly-cloudy-day,0,0
+2023-06-12T09:00:00,33,46.44,1001,Clear,clear-day,0,0
+2023-06-12T10:00:00,35,41.54,1001,Clear,clear-day,0,0
+2023-06-12T11:00:00,37,45.93,998.3,Clear,clear-day,0,0
+2023-06-12T12:00:00,38,35.24,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-12T13:00:00,39,33.38,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-12T14:00:00,39.8,37.47,996.6,Partially cloudy,partly-cloudy-day,0,0
+2023-06-12T15:00:00,40,26.22,998,Partially cloudy,partly-cloudy-day,0,0
+2023-06-12T16:00:00,40,27.93,998,Partially cloudy,partly-cloudy-day,0,0
+2023-06-12T17:00:00,39.4,37.54,995.2,Partially cloudy,partly-cloudy-day,0,0
+2023-06-12T18:00:00,39,29.47,997,Partially cloudy,partly-cloudy-day,0,0
+2023-06-12T19:00:00,38,33.11,998,Partially cloudy,partly-cloudy-day,0,0
+2023-06-12T20:00:00,36.5,47.34,996.9,Partially cloudy,partly-cloudy-night,0,0
+2023-06-12T21:00:00,37,34.97,999,Clear,clear-night,0,0
+2023-06-12T22:00:00,36,39.31,1000,Clear,clear-night,0,0
+2023-06-12T23:00:00,34.2,56.28,998.2,Clear,clear-night,0,0
+2023-06-13T00:00:00,34,46.71,1000,Clear,clear-night,0,0
+2023-06-13T01:00:00,33,52.51,1000,Clear,clear-night,0,0
+2023-06-13T02:00:00,31.7,64.04,997.7,Clear,clear-night,0,0
+2023-06-13T03:00:00,32,55.56,999,Clear,clear-night,0,0
+2023-06-13T04:00:00,32,55.56,1000,Clear,clear-night,0,0
+2023-06-13T05:00:00,31.2,65.34,998.3,Clear,clear-night,0,0
+2023-06-13T06:00:00,32,52.26,1000,Clear,clear-day,0,0
+2023-06-13T07:00:00,33,49.4,1001,Clear,clear-day,0,0
+2023-06-13T08:00:00,34.2,49.56,999.4,Clear,clear-day,0,0
+2023-06-13T09:00:00,37,30.84,1001,Clear,clear-day,0,0
+2023-06-13T10:00:00,39,29.47,1001,Clear,clear-day,0,0
+2023-06-13T11:00:00,39.2,39.16,998.5,Partially cloudy,partly-cloudy-day,0,0
+2023-06-13T12:00:00,40,27.93,1000,Clear,clear-day,0,0
+2023-06-13T13:00:00,40,27.93,1000,Clear,clear-day,0,0
+2023-06-13T14:00:00,41.1,33.68,996.5,Clear,clear-day,0,0
+2023-06-13T15:00:00,41,23.33,998,Partially cloudy,partly-cloudy-day,0,0
+2023-06-13T16:00:00,41,23.33,997,Partially cloudy,partly-cloudy-day,0,0
+2023-06-13T17:00:00,41.2,34.57,993.9,Partially cloudy,partly-cloudy-day,0,0
+2023-06-13T18:00:00,40,21.63,997,Clear,clear-day,0,0
+2023-06-13T19:00:00,38,25.7,997,Clear,clear-day,0,0
+2023-06-13T20:00:00,37.4,39.74,995.1,Clear,clear-night,0,0
+2023-06-13T21:00:00,36,30.57,998,Clear,clear-night,0,0
+2023-06-13T22:00:00,36,30.57,999,Clear,clear-night,0,0
+2023-06-13T23:00:00,35.5,43.08,997.6,Partially cloudy,partly-cloudy-night,0,0
+2023-06-14T00:00:00,35,36.66,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-14T01:00:00,33,38.49,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-14T02:00:00,33.1,48.68,997.2,Partially cloudy,partly-cloudy-night,0,0
+2023-06-14T03:00:00,31,43.1,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-14T04:00:00,30,42.83,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-14T05:00:00,30.5,54.78,998.5,Partially cloudy,partly-cloudy-night,0,0
+2023-06-14T06:00:00,31,45.91,1001,Clear,clear-day,0,0
+2023-06-14T07:00:00,33,43.64,1002,Clear,clear-day,0,0
+2023-06-14T08:00:00,34,51.23,1000.5,Clear,clear-day,0,0
+2023-06-14T09:00:00,35,41.54,1002,Clear,clear-day,0,0
+2023-06-14T10:00:00,37,37.21,1002,Clear,clear-day,0,0
+2023-06-14T11:00:00,37.9,45.39,998.9,Partially cloudy,partly-cloudy-day,0,0
+2023-06-14T12:00:00,38,35.24,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-14T13:00:00,39,33.38,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-14T14:00:00,39.9,39.51,997.5,Partially cloudy,partly-cloudy-day,0,0
+2023-06-14T15:00:00,40,27.93,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-14T16:00:00,39,29.47,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-14T17:00:00,40.1,39.69,995.5,Partially cloudy,partly-cloudy-day,0,0
+2023-06-14T18:00:00,39,25.96,998,Partially cloudy,partly-cloudy-day,0,0
+2023-06-14T19:00:00,38,27.4,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-14T20:00:00,37.1,45.49,997.3,Partially cloudy,partly-cloudy-night,0,0
+2023-06-14T21:00:00,33,46.44,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-14T22:00:00,32,40.72,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-14T23:00:00,34.9,48.9,999.2,Partially cloudy,partly-cloudy-night,0,0
+2023-06-15T00:00:00,32,40.72,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-15T01:00:00,30,48.62,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-15T02:00:00,32.1,55.72,998,Partially cloudy,partly-cloudy-night,0,0
+2023-06-15T03:00:00,33.5,36.47,999,Clear,clear-night,0,0
+2023-06-15T04:00:00,29,58.35,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-15T05:00:00,29.8,64.72,998.9,Partially cloudy,partly-cloudy-night,0,0
+2023-06-15T06:00:00,30,51.76,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-15T07:00:00,32,49.13,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-15T08:00:00,33.1,52.73,1000.7,Partially cloudy,partly-cloudy-day,0,0
+2023-06-15T09:00:00,34,41.27,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-15T10:00:00,35,39.03,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-15T11:00:00,35.9,47.34,1001.7,Partially cloudy,partly-cloudy-day,0,0
+2023-06-15T12:00:00,36,36.94,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-15T13:00:00,36,36.94,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-15T14:00:00,36.1,49.45,1000.2,Partially cloudy,partly-cloudy-day,0,0
+2023-06-15T15:00:00,36,39.31,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-15T16:00:00,37,34.95,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-15T17:00:00,36.6,36.88,1000.1,Partially cloudy,partly-cloudy-day,0,0
+2023-06-15T18:00:00,36,34.68,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-15T19:00:00,35,36.65,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-15T20:00:00,33.7,51.88,999.1,Partially cloudy,partly-cloudy-night,0,0
+2023-06-15T21:00:00,33,38.49,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-15T22:00:00,33,33.87,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-15T23:00:00,31.6,53.78,1000.1,Partially cloudy,partly-cloudy-night,0,0
+2023-06-16T00:00:00,32,35.84,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-16T01:00:00,31,40.45,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-16T02:00:00,30.2,59.76,999.6,Partially cloudy,partly-cloudy-night,0,0
+2023-06-16T03:00:00,30,42.83,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-16T04:00:00,30,45.64,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-16T05:00:00,29.1,57.57,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-16T06:00:00,30,45.64,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-16T07:00:00,31,43.1,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-16T08:00:00,32.9,49.98,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-16T09:00:00,34,46.71,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-16T10:00:00,36,41.81,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-16T11:00:00,36.9,49.54,1000.5,Partially cloudy,partly-cloudy-day,0,0
+2023-06-16T12:00:00,36,39.31,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-16T13:00:00,37,37.21,1001.6,Partially cloudy,partly-cloudy-day,0,0
+2023-06-16T14:00:00,38.1,40.1,998.5,Partially cloudy,partly-cloudy-day,0,0
+2023-06-16T15:00:00,28,83.79,1002,Overcast,cloudy,0,0
+2023-06-16T16:00:00,29,79.06,1001,Overcast,cloudy,0,0
+2023-06-16T17:00:00,29.7,84.89,998.4,"Rain, Partially cloudy",rain,8.195,1
+2023-06-16T18:00:00,32,66.58,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-16T19:00:00,32,62.71,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-16T20:00:00,30.7,82.08,999.1,Partially cloudy,partly-cloudy-night,0,0
+2023-06-16T21:00:00,32,62.71,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-16T22:00:00,31,66.38,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-16T23:00:00,29.8,84.55,999.8,Partially cloudy,partly-cloudy-night,0,0
+2023-06-17T00:00:00,31,70.47,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-17T01:00:00,30,74.63,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-17T02:00:00,29.3,84.26,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-17T03:00:00,30,74.63,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-17T04:00:00,30,70.29,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-17T05:00:00,28.8,80.91,999.4,Partially cloudy,partly-cloudy-night,0,0
+2023-06-17T06:00:00,30,74.63,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-17T07:00:00,30,70.29,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-17T08:00:00,30.4,69.33,1001.4,Partially cloudy,partly-cloudy-day,0,0
+2023-06-17T09:00:00,32,62.71,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-17T10:00:00,34,49.65,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-17T11:00:00,34.3,54.86,1001.4,Partially cloudy,partly-cloudy-day,0,0
+2023-06-17T12:00:00,37,37.21,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-17T13:00:00,37,37.21,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-17T14:00:00,37.6,44.88,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-17T15:00:00,37,39.58,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-17T16:00:00,37,39.58,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-17T17:00:00,37.2,48.39,996.9,Partially cloudy,partly-cloudy-day,0,0
+2023-06-17T18:00:00,31,62.5,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-17T19:00:00,31,70.47,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-17T20:00:00,32.2,66.81,999.4,"Rain, Partially cloudy",rain,0.299,1
+2023-06-17T21:00:00,32,62.71,1003,Overcast,cloudy,0,0
+2023-06-17T22:00:00,30,70.29,1003,Overcast,cloudy,0,0
+2023-06-17T23:00:00,30.2,71.14,1001.1,Overcast,cloudy,0,0
+2023-06-18T00:00:00,30,70.29,1002,Overcast,cloudy,0,0
+2023-06-18T01:00:00,29.1,74.47,1002,Overcast,cloudy,0,0
+2023-06-18T02:00:00,29,74.27,1000.2,Overcast,cloudy,0,0
+2023-06-18T03:00:00,29.1,74.47,1002,Overcast,cloudy,0,0
+2023-06-18T04:00:00,29,74.47,1002,Overcast,cloudy,0,0
+2023-06-18T05:00:00,29.5,72.08,1000.4,Partially cloudy,partly-cloudy-night,0,0
+2023-06-18T06:00:00,29,74.47,1003,Overcast,cloudy,0,0
+2023-06-18T07:00:00,30,74.62,1003,Overcast,cloudy,0,0
+2023-06-18T08:00:00,31.8,68.55,1002.2,Partially cloudy,partly-cloudy-day,0,0
+2023-06-18T09:00:00,30,79.19,1003,Overcast,cloudy,0,0
+2023-06-18T10:00:00,31,70.47,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-18T11:00:00,33.2,64.34,1001.3,"Rain, Partially cloudy",rain,0.597,1
+2023-06-18T12:00:00,33,59.27,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-18T13:00:00,33,59.27,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-18T14:00:00,35.5,57.18,998.4,Partially cloudy,partly-cloudy-day,0,0
+2023-06-18T15:00:00,35,53.01,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-18T16:00:00,33,59.26,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-18T17:00:00,34.2,55.15,997.7,Partially cloudy,partly-cloudy-day,0,0
+2023-06-18T18:00:00,33,55.8,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-18T19:00:00,33,59.27,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-18T20:00:00,32.6,62.54,998.2,Partially cloudy,partly-cloudy-night,0,0
+2023-06-18T21:00:00,31,66.38,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-18T22:00:00,31,62.5,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-18T23:00:00,31,67.31,999.1,Partially cloudy,partly-cloudy-night,0,0
+2023-06-19T00:00:00,30,70.29,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-19T01:00:00,29,70.11,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-19T02:00:00,29.7,69.15,998.4,Partially cloudy,partly-cloudy-night,0,0
+2023-06-19T03:00:00,28,74.3,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-19T04:00:00,28,74.3,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-19T05:00:00,28.3,75.04,998.9,Partially cloudy,partly-cloudy-night,0,0
+2023-06-19T06:00:00,26,100,1001,Overcast,cloudy,0,0
+2023-06-19T07:00:00,26,100,1002,Overcast,cloudy,0,0
+2023-06-19T08:00:00,26.9,96.69,1000.4,"Rain, Overcast",rain,5.299,1
+2023-06-19T09:00:00,26,100,1002,Overcast,cloudy,0,0
+2023-06-19T10:00:00,26,94.23,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-19T11:00:00,27.9,87.24,1000.1,"Rain, Overcast",rain,0.17,1
+2023-06-19T12:00:00,30,74.63,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-19T13:00:00,32,66.58,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-19T14:00:00,33.2,62.95,997.5,Partially cloudy,partly-cloudy-day,0,0
+2023-06-19T15:00:00,27,83.68,1000,Overcast,cloudy,0,0
+2023-06-19T16:00:00,28,78.92,999,Overcast,cloudy,0,0
+2023-06-19T17:00:00,29.4,79.45,996.8,"Rain, Partially cloudy",rain,3.232,1
+2023-06-19T18:00:00,29,79.06,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-19T19:00:00,29,83.9,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-19T20:00:00,29.3,82.14,997.5,Partially cloudy,partly-cloudy-night,0,0
+2023-06-19T21:00:00,30,79.19,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-19T22:00:00,29,79.06,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-19T23:00:00,28.7,82.97,998,Partially cloudy,partly-cloudy-night,0,0
+2023-06-20T00:00:00,29,70.11,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-20T01:00:00,29,70.11,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-20T02:00:00,28,83.42,997.5,Partially cloudy,partly-cloudy-night,0,0
+2023-06-20T03:00:00,29,74.47,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-20T04:00:00,29,74.47,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-20T05:00:00,27.9,85.32,998.3,"Rain, Overcast",rain,0.09,1
+2023-06-20T06:00:00,27,94.27,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-20T07:00:00,29,79.06,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-20T08:00:00,30.1,79.22,1000.4,"Rain, Partially cloudy",rain,0.508,1
+2023-06-20T09:00:00,30,74.63,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-20T10:00:00,32,70.66,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-20T11:00:00,33.9,65.74,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-20T12:00:00,34,66.98,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-20T13:00:00,34,56.04,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-20T14:00:00,36.9,49.78,998.1,Partially cloudy,partly-cloudy-day,0,0
+2023-06-20T15:00:00,36,47.23,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-20T16:00:00,36,47.23,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-20T17:00:00,36.1,49.66,996.9,Partially cloudy,partly-cloudy-day,0,0
+2023-06-20T18:00:00,35,46.97,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-20T19:00:00,34,56.04,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-20T20:00:00,31.3,70.73,998.2,Partially cloudy,partly-cloudy-night,0,0
+2023-06-20T21:00:00,30,74.63,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-20T22:00:00,31.7,67.78,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-20T23:00:00,30.1,73.11,999.4,Partially cloudy,partly-cloudy-night,0,0
+2023-06-21T00:00:00,30,70.29,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-21T01:00:00,30,70.29,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-21T02:00:00,29.4,76.28,999.3,Partially cloudy,partly-cloudy-night,0,0
+2023-06-21T03:00:00,29,74.47,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-21T04:00:00,29,74.47,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-21T05:00:00,29.1,78.44,1000.2,Overcast,cloudy,0,0
+2023-06-21T06:00:00,27,94.27,1003,Overcast,cloudy,0,0
+2023-06-21T07:00:00,26,94.23,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-21T08:00:00,28.6,86.17,1002,"Rain, Partially cloudy",rain,0.075,1
+2023-06-21T09:00:00,27,94.27,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-21T10:00:00,29,83.9,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-21T11:00:00,31,74.47,1001.8,Partially cloudy,partly-cloudy-day,0,0
+2023-06-21T12:00:00,32,70.66,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-21T13:00:00,33,66.78,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-21T14:00:00,35.8,57.07,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-21T15:00:00,36,50.16,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-21T16:00:00,36,50.16,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-21T17:00:00,36.3,55.47,996.9,Partially cloudy,partly-cloudy-day,0,0
+2023-06-21T18:00:00,34,56.04,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-21T19:00:00,33,62.93,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-21T20:00:00,33,69.21,998.6,Partially cloudy,partly-cloudy-night,0,0
+2023-06-21T21:00:00,30,70.29,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-21T22:00:00,30,70.29,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-21T23:00:00,30.6,70.62,1000.3,Partially cloudy,partly-cloudy-night,0,0
+2023-06-22T00:00:00,30,74.63,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-22T01:00:00,30,74.63,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-22T02:00:00,29.5,75.8,999.8,Partially cloudy,partly-cloudy-night,0,0
+2023-06-22T03:00:00,30,79.19,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-22T04:00:00,29,88.99,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-22T05:00:00,29,88.38,999.9,"Rain, Overcast",rain,0.851,1
+2023-06-22T06:00:00,30,79.19,1003,Overcast,cloudy,0,0
+2023-06-22T07:00:00,30,79.19,1003,Overcast,cloudy,0,0
+2023-06-22T08:00:00,29.8,87.67,1002.2,Overcast,cloudy,0,0
+2023-06-22T09:00:00,31,74.79,1004,Overcast,cloudy,0,0
+2023-06-22T10:00:00,32,66.58,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-22T11:00:00,32.3,68.59,1001.8,Partially cloudy,partly-cloudy-day,0,0
+2023-06-22T12:00:00,33,62.93,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-22T13:00:00,34,59.5,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-22T14:00:00,36.5,54.44,999.1,Partially cloudy,partly-cloudy-day,0,0
+2023-06-22T15:00:00,35,53.01,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-22T16:00:00,35,56.28,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-22T17:00:00,36.2,56.31,997.1,Partially cloudy,partly-cloudy-day,0,0
+2023-06-22T18:00:00,35,53.01,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-22T19:00:00,35,56.28,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-22T20:00:00,34.3,61.18,997.9,Partially cloudy,partly-cloudy-night,0,0
+2023-06-22T21:00:00,34,59.5,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-22T22:00:00,34,59.5,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-22T23:00:00,33.5,63.75,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-23T00:00:00,33,70.84,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-23T01:00:00,33,70.84,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-23T02:00:00,32.5,69.96,998.3,Partially cloudy,partly-cloudy-night,0,0
+2023-06-23T03:00:00,28,94.32,1001,Overcast,cloudy,0,0
+2023-06-23T04:00:00,27,100,1001,Overcast,cloudy,0,0
+2023-06-23T05:00:00,28.3,94.52,999.2,"Rain, Overcast",rain,6.464,1
+2023-06-23T06:00:00,29,94.36,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-23T07:00:00,31,89.14,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-23T08:00:00,31.8,73.5,1000.6,Partially cloudy,partly-cloudy-day,0,0
+2023-06-23T09:00:00,34,63.14,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-23T10:00:00,34,59.5,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-23T11:00:00,35.1,57.57,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-23T12:00:00,35,56.28,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-23T13:00:00,35,53.01,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-23T14:00:00,36.8,53.04,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-23T15:00:00,35,53.01,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-23T16:00:00,35,56.28,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-23T17:00:00,35.4,61.73,997,Partially cloudy,partly-cloudy-day,0,0
+2023-06-23T18:00:00,34,59.5,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-23T19:00:00,34,63.14,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-23T20:00:00,34,66.24,998.3,Partially cloudy,partly-cloudy-night,0,0
+2023-06-23T21:00:00,33,66.78,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-23T22:00:00,32,74.95,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-23T23:00:00,32.2,74.49,998.7,Partially cloudy,partly-cloudy-night,0,0
+2023-06-24T00:00:00,32,74.95,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-24T01:00:00,32,74.95,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-24T02:00:00,31.2,80.45,998.7,Partially cloudy,partly-cloudy-night,0,0
+2023-06-24T03:00:00,31,79.33,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-24T04:00:00,31,84.11,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-24T05:00:00,31.1,81.85,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-24T06:00:00,31,79.33,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-24T07:00:00,32,59.04,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-24T08:00:00,32.5,66.71,1000.2,Partially cloudy,partly-cloudy-day,0,0
+2023-06-24T09:00:00,34,56.04,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-24T10:00:00,35,49.91,1002,Partially cloudy,partly-cloudy-day,0,1
+2023-06-24T11:00:00,36.4,51.87,999.9,Partially cloudy,partly-cloudy-day,0,1
+2023-06-24T12:00:00,34,66.98,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-24T13:00:00,33,66.78,1001,Overcast,cloudy,0,0
+2023-06-24T14:00:00,35,63.66,998.5,Partially cloudy,partly-cloudy-day,0,0
+2023-06-24T15:00:00,33,62.93,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-24T16:00:00,33,59.27,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-24T17:00:00,32.9,65.39,996.7,Partially cloudy,partly-cloudy-day,0,0
+2023-06-24T18:00:00,32,66.58,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-24T19:00:00,31,70.47,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-24T20:00:00,30.7,71.46,998.2,Partially cloudy,partly-cloudy-night,0,0
+2023-06-24T21:00:00,30,74.63,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-24T22:00:00,30,74.63,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-24T23:00:00,30,78.42,1000.2,Partially cloudy,partly-cloudy-night,0,0
+2023-06-25T00:00:00,30,84,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-25T01:00:00,30,84,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-25T02:00:00,29.2,81.41,999.3,Overcast,cloudy,0,0
+2023-06-25T03:00:00,25,94.19,1001,Overcast,cloudy,0,0
+2023-06-25T04:00:00,25,94.19,1002,Overcast,cloudy,0,0
+2023-06-25T05:00:00,25.1,99.48,1000.8,"Rain, Overcast",rain,39.864,1
+2023-06-25T06:00:00,25,94.19,1003,Overcast,cloudy,0,0
+2023-06-25T07:00:00,25,94.19,1003,Overcast,cloudy,0,0
+2023-06-25T08:00:00,24.8,99.32,1002.6,"Rain, Overcast",rain,5.448,1
+2023-06-25T09:00:00,25,94.19,1004,Overcast,cloudy,0,0
+2023-06-25T10:00:00,26,94.23,1005,Overcast,cloudy,0,0
+2023-06-25T11:00:00,25.5,98.28,1002.9,"Rain, Overcast",rain,1.299,1
+2023-06-25T12:00:00,25,100,1005,Overcast,cloudy,0,0
+2023-06-25T13:00:00,25,94.19,1004,Overcast,cloudy,0,0
+2023-06-25T14:00:00,25.5,97.44,1001.9,"Rain, Overcast",rain,0.597,1
+2023-06-25T15:00:00,26,100,1003,Overcast,cloudy,0,0
+2023-06-25T16:00:00,27,94.27,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-25T17:00:00,28.3,87.87,999.4,Partially cloudy,partly-cloudy-day,0,0
+2023-06-25T18:00:00,27,94.27,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-25T19:00:00,27,94.27,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-25T20:00:00,27.1,91.92,1000.4,Partially cloudy,partly-cloudy-night,0,0
+2023-06-25T21:00:00,27,94.27,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-06-25T22:00:00,27,94.27,1004,Partially cloudy,partly-cloudy-night,0,0
+2023-06-25T23:00:00,27,92.52,1002.5,Partially cloudy,partly-cloudy-night,0,0
+2023-06-26T00:00:00,27,94.27,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-06-26T01:00:00,27,94.27,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-06-26T02:00:00,27,90.91,1002.8,Partially cloudy,partly-cloudy-night,0,0
+2023-06-26T03:00:00,27,94.27,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-26T04:00:00,26,94.23,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-06-26T05:00:00,26.6,96.28,1001.3,"Rain, Partially cloudy",rain,1.045,1
+2023-06-26T06:00:00,26,100,1003,Overcast,cloudy,0,0
+2023-06-26T07:00:00,27,100,1003,Overcast,cloudy,0,0
+2023-06-26T08:00:00,28.5,89.65,1002.4,Overcast,cloudy,0,0
+2023-06-26T09:00:00,28,88.91,1004,Overcast,cloudy,0,0
+2023-06-26T10:00:00,29,88.99,1005,Overcast,cloudy,0,0
+2023-06-26T11:00:00,31.2,75.84,1002.9,Partially cloudy,partly-cloudy-day,0,0
+2023-06-26T12:00:00,30,79.19,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-26T13:00:00,30,79.19,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-26T14:00:00,31.4,73.55,1001,"Rain, Partially cloudy",rain,0.149,1
+2023-06-26T15:00:00,31,84.11,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-26T16:00:00,30,79.19,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-26T17:00:00,30.8,75.07,998.7,Partially cloudy,partly-cloudy-day,0,0
+2023-06-26T18:00:00,30,79.19,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-26T19:00:00,30,79.19,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-26T20:00:00,30.2,73.38,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-26T21:00:00,29,83.9,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-06-26T22:00:00,29,94.36,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-06-26T23:00:00,28.7,79.53,1001.7,Partially cloudy,partly-cloudy-night,0,1
+2023-06-27T00:00:00,29,94.36,1002,Partially cloudy,partly-cloudy-night,0,1
+2023-06-27T01:00:00,28,94.32,1002,Partially cloudy,partly-cloudy-night,0,1
+2023-06-27T02:00:00,27.9,82.73,1000.5,Partially cloudy,partly-cloudy-night,0,1
+2023-06-27T03:00:00,28,94.32,1001,Partially cloudy,partly-cloudy-night,0,1
+2023-06-27T04:00:00,27,100,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-27T05:00:00,26,98.23,1000.5,"Rain, Overcast",rain,4.253,1
+2023-06-27T06:00:00,26,100,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-27T07:00:00,26,100,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-27T08:00:00,26.8,94.74,1001.1,Partially cloudy,partly-cloudy-day,0,0
+2023-06-27T09:00:00,30,89.07,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-27T10:00:00,31,84.11,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-27T11:00:00,31.9,73.99,1001.2,Partially cloudy,partly-cloudy-day,0,0
+2023-06-27T12:00:00,33.1,66.79,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-27T13:00:00,32,66.58,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-27T14:00:00,33.4,66.08,999.4,Partially cloudy,partly-cloudy-day,0,0
+2023-06-27T15:00:00,31,79.33,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-27T16:00:00,31,84.11,1000,Partially cloudy,partly-cloudy-day,0,1
+2023-06-27T17:00:00,31.7,78.48,998.1,"Rain, Partially cloudy",rain,0.085,1
+2023-06-27T18:00:00,30,89.07,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-27T19:00:00,30,94.4,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-27T20:00:00,30.4,83.04,999.3,Partially cloudy,partly-cloudy-night,0,0
+2023-06-27T21:00:00,29,94.36,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-27T22:00:00,29,88.99,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-06-27T23:00:00,29.4,88.6,1001.5,Partially cloudy,partly-cloudy-night,0,0
+2023-06-28T00:00:00,28,94.32,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-06-28T01:00:00,28,94.32,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-06-28T02:00:00,28.6,87.85,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-28T03:00:00,28,88.91,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-28T04:00:00,28,88.91,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-28T05:00:00,28.1,87.94,1000.8,Partially cloudy,partly-cloudy-night,0,0
+2023-06-28T06:00:00,28,88.91,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-28T07:00:00,29,88.99,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-28T08:00:00,30.2,81.28,1002.2,Partially cloudy,partly-cloudy-day,0,0
+2023-06-28T09:00:00,31,79.33,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-28T10:00:00,31,74.79,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-28T11:00:00,33.9,66.38,1002.2,Partially cloudy,partly-cloudy-day,0,0
+2023-06-28T12:00:00,32,70.66,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-28T13:00:00,33,66.78,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-28T14:00:00,34.9,61.2,1000.3,Partially cloudy,partly-cloudy-day,0,0
+2023-06-28T15:00:00,29,94.36,1002,Overcast,cloudy,0,0
+2023-06-28T16:00:00,27,100,1001,Partially cloudy,partly-cloudy-day,0,1
+2023-06-28T17:00:00,28.5,80.55,999.8,"Rain, Partially cloudy",rain,2.091,1
+2023-06-28T18:00:00,28,94.32,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-28T19:00:00,29,94.36,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-28T20:00:00,29.2,88.55,1000.5,Partially cloudy,partly-cloudy-night,0,0
+2023-06-28T21:00:00,29,88.99,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-06-28T22:00:00,29,88.99,1004,Partially cloudy,partly-cloudy-night,0,0
+2023-06-28T23:00:00,28.9,90.38,1002.2,Partially cloudy,partly-cloudy-night,0,0
+2023-06-29T00:00:00,28,94.32,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-06-29T01:00:00,28,94.32,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-06-29T02:00:00,28.1,91.57,1000.9,Partially cloudy,partly-cloudy-night,0,0
+2023-06-29T03:00:00,28,94.32,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-29T04:00:00,28,94.32,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-29T05:00:00,28.3,93.64,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-29T06:00:00,28,94.32,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-29T07:00:00,28,94.32,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-29T08:00:00,24.7,99.52,1003.8,"Rain, Overcast",rain,16.552,1
+2023-06-29T09:00:00,25,100,1004,Partially cloudy,partly-cloudy-day,0,0
+2023-06-29T10:00:00,26,94.23,1004,Overcast,cloudy,0,0
+2023-06-29T11:00:00,26.7,99.47,1002.5,"Rain, Overcast",rain,4.448,1
+2023-06-29T12:00:00,28,94.32,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-06-29T13:00:00,30,89.07,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-29T14:00:00,31.6,75.72,998.9,Partially cloudy,partly-cloudy-day,0,0
+2023-06-29T15:00:00,32,70.66,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-29T16:00:00,32,70.66,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-29T17:00:00,32.9,70.47,997.8,Partially cloudy,partly-cloudy-day,0,0
+2023-06-29T18:00:00,32,70.66,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-29T19:00:00,30,79.19,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-06-29T20:00:00,29,83.89,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-29T21:00:00,29,83.89,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-29T22:00:00,29,83.9,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-06-29T23:00:00,29.1,84.99,999.9,Partially cloudy,partly-cloudy-night,0,0
+2023-06-30T00:00:00,29,88.99,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-30T01:00:00,28,94.32,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-30T02:00:00,28.4,88.45,999,Partially cloudy,partly-cloudy-night,0,0
+2023-06-30T03:00:00,28,94.32,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-30T04:00:00,28,88.91,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-30T05:00:00,26,94.64,999.1,Overcast,cloudy,0,0
+2023-06-30T06:00:00,27,94.27,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-30T07:00:00,27,94.27,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-30T08:00:00,28,90.34,999.9,Partially cloudy,partly-cloudy-day,0,0
+2023-06-30T09:00:00,29,88.99,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-30T10:00:00,29,83.9,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-06-30T11:00:00,31.8,72.87,1000.4,Partially cloudy,partly-cloudy-day,0,0
+2023-06-30T12:00:00,31,79.33,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-30T13:00:00,32,70.66,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-06-30T14:00:00,29.6,83.34,998.1,"Rain, Overcast",rain,6.805,1
+2023-06-30T15:00:00,29,94.36,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-30T16:00:00,25,100,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-30T17:00:00,27.3,95.33,996.9,"Rain, Overcast",rain,16.61,1
+2023-06-30T18:00:00,28,94.32,998,Partially cloudy,partly-cloudy-day,0,0
+2023-06-30T19:00:00,28,94.32,999,Partially cloudy,partly-cloudy-day,0,0
+2023-06-30T20:00:00,27.4,95.99,998.4,Partially cloudy,partly-cloudy-night,0,0
+2023-06-30T21:00:00,27,100,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-06-30T22:00:00,27,100,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-06-30T23:00:00,27.1,95.32,999.5,Partially cloudy,partly-cloudy-night,0,0
+2023-07-01T00:00:00,28,94.32,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-07-01T01:00:00,27,100,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-07-01T02:00:00,26.1,97.43,998.7,Partially cloudy,partly-cloudy-night,0,0
+2023-07-01T03:00:00,27,94.27,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-07-01T04:00:00,27,94.27,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-07-01T05:00:00,26.2,96.65,998.8,Partially cloudy,partly-cloudy-night,0,0
+2023-07-01T06:00:00,27,94.27,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-07-01T07:00:00,27,94.27,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-07-01T08:00:00,28,89.13,1000.3,Partially cloudy,partly-cloudy-day,0,0
+2023-07-01T09:00:00,28,94.32,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-07-01T10:00:00,30,84,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-07-01T11:00:00,31.1,74.62,1000.9,Partially cloudy,partly-cloudy-day,0,0
+2023-07-01T12:00:00,32,74.95,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-07-01T13:00:00,32,70.66,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-07-01T14:00:00,33.4,65.81,999.2,Partially cloudy,partly-cloudy-day,0,0
+2023-07-01T15:00:00,33,66.78,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-01T16:00:00,32,70.66,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-01T17:00:00,33.7,66.11,998.1,Partially cloudy,partly-cloudy-day,0,0
+2023-07-01T18:00:00,32,70.66,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-01T19:00:00,31,74.79,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-01T20:00:00,30.4,76.79,999.6,Partially cloudy,partly-cloudy-night,0,0
+2023-07-01T21:00:00,29,83.9,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-07-01T22:00:00,29,88.99,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-07-01T23:00:00,29,83.05,1002.2,Partially cloudy,partly-cloudy-night,0,0
+2023-07-02T00:00:00,28,88.91,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-07-02T01:00:00,27,100,1003,Partially cloudy,partly-cloudy-night,0,0
+2023-07-02T02:00:00,27.6,92.05,1001.1,Partially cloudy,partly-cloudy-night,0,0
+2023-07-02T03:00:00,27,100,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-07-02T04:00:00,27,100,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-07-02T05:00:00,27.1,93.15,1000.4,Partially cloudy,partly-cloudy-night,0,0
+2023-07-02T06:00:00,27,100,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-07-02T07:00:00,28,94.32,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-07-02T08:00:00,29.2,85.34,1001.5,Partially cloudy,partly-cloudy-day,0,0
+2023-07-02T09:00:00,30,84,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-07-02T10:00:00,32.8,57.11,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-07-02T11:00:00,32.6,67.14,1001.3,Partially cloudy,partly-cloudy-day,0,0
+2023-07-02T12:00:00,32,70.66,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-07-02T13:00:00,33,66.78,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-07-02T14:00:00,34.6,56.49,999.1,Partially cloudy,partly-cloudy-day,0,0
+2023-07-02T15:00:00,35,53.01,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-02T16:00:00,35,49.91,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-02T17:00:00,35.3,53.5,997.4,Partially cloudy,partly-cloudy-day,0,0
+2023-07-02T18:00:00,34,52.76,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-02T19:00:00,33,59.27,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-02T20:00:00,32.1,69.42,1000.3,Partially cloudy,partly-cloudy-night,0,0
+2023-07-02T21:00:00,31,70.47,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-07-02T22:00:00,31,74.79,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-07-02T23:00:00,30.6,76.77,1000.6,Partially cloudy,partly-cloudy-night,0,0
+2023-07-03T00:00:00,30,84,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-07-03T01:00:00,30,84,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-07-03T02:00:00,29.5,83.14,1000.1,Partially cloudy,partly-cloudy-night,0,0
+2023-07-03T03:00:00,29,88.99,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-07-03T04:00:00,29,94.36,1002,Partially cloudy,partly-cloudy-night,0,0
+2023-07-03T05:00:00,29,88.44,1000.3,Partially cloudy,partly-cloudy-night,0,0
+2023-07-03T06:00:00,29,94.36,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-07-03T07:00:00,30,89.07,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-07-03T08:00:00,31.3,76.52,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-07-03T09:00:00,33,66.78,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-07-03T10:00:00,33,62.93,1003,Partially cloudy,partly-cloudy-day,0,0
+2023-07-03T11:00:00,34.4,58.97,1000.4,Partially cloudy,partly-cloudy-day,0,0
+2023-07-03T12:00:00,35,56.28,1002,Partially cloudy,partly-cloudy-day,0,0
+2023-07-03T13:00:00,36,56.52,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-07-03T14:00:00,36.5,51.71,998.4,Partially cloudy,partly-cloudy-day,0,0
+2023-07-03T15:00:00,37,47.49,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-03T16:00:00,37,44.71,999,Partially cloudy,partly-cloudy-day,0,0
+2023-07-03T17:00:00,37.5,50.71,996.5,Partially cloudy,partly-cloudy-day,0,0
+2023-07-03T18:00:00,36,47.23,999,Partially cloudy,partly-cloudy-day,0,0
+2023-07-03T19:00:00,35,59.73,999,Partially cloudy,partly-cloudy-day,0,0
+2023-07-03T20:00:00,33.8,68.13,997.7,Partially cloudy,partly-cloudy-night,0,0
+2023-07-03T21:00:00,32,74.95,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-07-03T22:00:00,32,74.95,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-07-03T23:00:00,32.3,73.45,999.4,Partially cloudy,partly-cloudy-night,0,0
+2023-07-04T00:00:00,32,74.95,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-07-04T01:00:00,32,74.95,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-07-04T02:00:00,30.9,79.02,998.6,Partially cloudy,partly-cloudy-night,0,0
+2023-07-04T03:00:00,31,84.11,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-07-04T04:00:00,31,84.11,999,Partially cloudy,partly-cloudy-night,0,0
+2023-07-04T05:00:00,30,89.06,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-07-04T06:00:00,30,89.06,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-04T07:00:00,31,79.32,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-04T08:00:00,33,62.92,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-04T09:00:00,34,59.49,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-07-04T10:00:00,34,63.13,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-07-04T11:00:00,35,59.72,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-07-04T12:00:00,35,59.72,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-04T13:00:00,34,71.01,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-04T14:00:00,25,100,1001,Overcast,cloudy,0,0
+2023-07-04T15:00:00,26,94.23,999,"Rain, Partially cloudy",rain,0.1,1
+2023-07-04T16:00:00,28,94.31,999,"Rain, Partially cloudy",rain,2.7,1
+2023-07-04T17:00:00,29,94.35,998,"Rain, Partially cloudy",rain,7.5,1
+2023-07-04T18:00:00,30,84,998,"Rain, Partially cloudy",rain,3.3,1
+2023-07-04T19:00:00,30,84,998,Partially cloudy,partly-cloudy-day,0,0
+2023-07-04T20:00:00,29,88.99,999,Partially cloudy,partly-cloudy-night,0,0
+2023-07-04T21:00:00,30,89.06,1000,"Rain, Partially cloudy",rain,0.1,1
+2023-07-04T22:00:00,30,94.39,1001,"Rain, Partially cloudy",rain,0.1,1
+2023-07-04T23:00:00,30,94.39,1001,"Rain, Partially cloudy",rain,0.2,1
+2023-07-05T00:00:00,30,100,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-07-05T01:00:00,30,94.39,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-07-05T02:00:00,30,94.39,999,Partially cloudy,partly-cloudy-night,0,0
+2023-07-05T03:00:00,29,94.35,999,Partially cloudy,partly-cloudy-night,0,0
+2023-07-05T04:00:00,29,94.35,999,Partially cloudy,partly-cloudy-night,0,0
+2023-07-05T05:00:00,28,94.31,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-07-05T06:00:00,28,94.31,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-05T07:00:00,29,94.35,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-07-05T08:00:00,29,94.35,1001,"Rain, Partially cloudy",rain,0.1,1
+2023-07-05T09:00:00,31,89.14,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-07-05T10:00:00,32,79.46,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-07-05T11:00:00,33,70.83,1001,Partially cloudy,partly-cloudy-day,0,0
+2023-07-05T12:00:00,33,66.77,1000,Partially cloudy,partly-cloudy-day,0,0
+2023-07-05T13:00:00,29,88.99,1001,Overcast,cloudy,0,0
+2023-07-05T14:00:00,29,100,999,Partially cloudy,partly-cloudy-day,0,0
+2023-07-05T15:00:00,32,74.94,999,Partially cloudy,partly-cloudy-day,0,0
+2023-07-05T16:00:00,33,66.77,999,Partially cloudy,partly-cloudy-day,0,0
+2023-07-05T17:00:00,32,74.94,999,Partially cloudy,partly-cloudy-day,0,0
+2023-07-05T18:00:00,29,74.46,999,Overcast,cloudy,0,0
+2023-07-05T19:00:00,26,100,999,Overcast,cloudy,0,0
+2023-07-05T20:00:00,26,100,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-07-05T21:00:00,26,100,1000,Partially cloudy,partly-cloudy-night,0,0
+2023-07-05T22:00:00,28,94.31,1001,Partially cloudy,partly-cloudy-night,0,0
+2023-07-05T23:00:00,28,100,1001,Partially cloudy,partly-cloudy-night,0,0
